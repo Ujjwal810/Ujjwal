@@ -11,7 +11,7 @@ class Age {
     int a=sc.nextInt();
     if(s.equals("Female"))
     {
-    	if(a>=1 && a<=58)
+    	if(a>=1  &&  a<=58)
     	{
     		System.out.println("Percentage of interest is 8.2%");
     	}
